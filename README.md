@@ -1,3 +1,8 @@
+NOTE: This repository is a fork of
+[jpfleury/clearlooks-phenix](https://github.com/jpfleury/clearlooks-phenix).
+The window borders have been made less round and the window buttons
+are now flat, otherwise it's mostly the same.
+
 ## Overview
 
 The Clearlooks-Phénix project aims at creating a GTK3 port of Clearlooks, the default theme for Gnome 2. Style is also included for GTK2, Unity and for Metacity, Openbox and Xfwm4 window managers.
